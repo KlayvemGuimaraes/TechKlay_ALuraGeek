@@ -1,0 +1,189 @@
+{
+  "users": [
+    {
+      "email": "klayvem@email.com",
+      "password": "haha2e3",
+      "id": 1
+    },
+    {
+      "email": "rayssab@mail.com",
+      "password": "02101",
+      "id": 2
+    },
+    {
+      "email": "jorgesantos@email.br",
+      "password": "0101",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Mouse",
+      "name": "Figure - Rainha Medusa",
+      "price": "7996.09",
+      "info": "Action Figure da rainha Medusa (Cai Ling) personagem feminina do Anime Chinês Doupo Cangqiong. modelo de resina",
+      "code": "4193342",
+      "id": 1
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Action Figure",
+      "name": "Figure - Yun Yun",
+      "price": "7522.95",
+      "info": "Estátua de Resina Yun Yun, personagem feminina do Anime Chinês Doupo Cangqiong",
+      "code": "2768031",
+      "id": 2
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Action Figure",
+      "name": "Boneco - Xiao Yan",
+      "price": "147.78",
+      "info": "Boneco Xiao Yan, protagonista masculino do Anime Chinês Doupo Cangqiong",
+      "code": "6596291",
+      "id": 3
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "name": "Figure - Xiao Wu",
+      "price": "335.57",
+      "info": "Action Figure Xiao Wu Anime Chinês Douluo Dalu, figure de ação kawai, boneca de resina modelo miniatura desktop estatueta coleção",
+      "code": "7796291",
+      "id": 4
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Action Figure",
+      "name": "Figure - Tang San",
+      "price": "228.84",
+      "info": "Action Figure Tang Sang Anime Chinês Douluo Dalu, figure de ação, boneco de resina modelo miniatura desktop estatueta coleção",
+      "code": "7796300",
+      "id": 5
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Acessórios",
+      "name": "Pingente Amor",
+      "price": "196.78",
+      "info": "Pingente, colar prata 925 Amor para Sempre, Luo Fang, Anime Chinês Swallowed Start",
+      "code": "5596291",
+      "id": 6
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Acessórios",
+      "name": "Relógio Babata",
+      "price": "146.54",
+      "info": "Relógio à prova d'água Babata, Anime Chinês Swallowed Start",
+      "code": "5396255",
+      "id": 7
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Acessórios",
+      "name": "Relógio Luo Fang",
+      "price": "146.54",
+      "info": "Relógio à prova d'água Luo Fang, Anime Chinês Swallowed Start",
+      "code": "6377255",
+      "id": 8
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Acessórios",
+      "name": "Guarda-Chuva Medusa",
+      "price": "113.04",
+      "info": "Guarda-Chuva rainha Medusa, Anime Chinês Doupo Cangqiong",
+      "code": "4372851",
+      "id": 9
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "name": "Guarda-Chuva Yun Yun",
+      "price": "113.04",
+      "info": "Guarda-Chuva Yun Yun, Anime Chinês Doupo Cangqiong",
+      "code": "4278899",
+      "id": 10
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Acessórios",
+      "name": "Anel Hai Bondong",
+      "price": "158.12",
+      "info": "Anel Rei do Gelo Hai Bondong, Anime Chinês Doupo Cangqiong",
+      "code": "3278899",
+      "id": 11
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Acessórios",
+      "name": "Tabeçaria Douluo Dalu",
+      "price": "75.85",
+      "info": "Tapeçaria para parede Anime Chinês Douluo Dalu, fundo de pano para pendurar na cama, dormitório de parede, decoração de fotos",
+      "code": "3478899",
+      "id": 12
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "name": "Capa de Celular Douluo Dalu",
+      "price": "10.05",
+      "info": "Capa de celular Anime Chinês Douluo Dalu Soul casal Tang Sang e Xiao Wu para samsung galaxy s23 s22 ultra s21 ultra note 20 s20 fe s8 s9 s10 note 10 plus",
+      "code": "5475599",
+      "id": 13
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Mousepad",
+      "name": "Mousepad Yun Yun",
+      "price": "125.50",
+      "info": "Mousepad Yun Yun, Tapete de Mesa, Anime Chinês Doupo Cangqiong",
+      "code": "2272722",
+      "id": 14
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Mousepad",
+      "name": "Mousepad Medusa",
+      "price": "140.37",
+      "info": "Mousepad rainha Medusa Cai Lin, Tapete de Mesa, Anime Chinês Doupo Cangqiong",
+      "code": "8892754",
+      "id": 15
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Mousepad",
+      "name": "Mousepad Xiao Xun'er",
+      "price": "121.95",
+      "info": "Mousepad princesa Xiao Xun'er, Tapete de Mesa, Anime Chinês Doupo Cangqiong",
+      "code": "9492754",
+      "id": 16
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Action Figure",
+      "name": " Xie Lian, Hua Cheng",
+      "price": "569.03",
+      "info": "Cada pedido vem com cartões postais e fundo de acrílico.\nTamanho da figura: Cerca de 60 mm/80 mm",
+      "code": "5794300",
+      "id": 20
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Acessórios",
+      "name": "Artbook Douluo Dalu",
+      "price": "207.82",
+      "info": "Número da página: 80 páginas\nIdioma: chinês\nAnime Chinês: Douluo Dalu",
+      "code": "4240019",
+      "id": 21
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "category": "Action Figure",
+      "name": " Mo Dao Zu Shi",
+      "price": "667.99",
+      "info": "Esta é uma action figure oficial do Anime Chinês  Mo Dao Zu Shi.\nTamanho: incluindo base de cerca de 190 mm (7,48\")",
+      "code": "4138164",
+      "id": 22
+    }
+  ]
+}

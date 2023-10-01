@@ -1,0 +1,20 @@
+.l-header {
+    height: 19.2rem;
+    /* background: url(../../../assets/images/backgrounds/background-header.jpg) no-repeat center / cover; */
+    background: url(https://wallpapershome.com/images/pages/pic_h/25112.jpeg) no-repeat center top 30% / cover;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.l-header .c-button-primary {
+    max-width: fit-content;
+}
+
+@media screen and (min-width: 768px) {
+    .l-header {
+        height: 35.2rem;
+        
+    }
+}
